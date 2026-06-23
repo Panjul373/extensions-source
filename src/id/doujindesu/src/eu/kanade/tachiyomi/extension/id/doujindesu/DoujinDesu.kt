@@ -31,7 +31,7 @@ import org.jsoup.nodes.Element
 import java.text.SimpleDateFormat
 import java.util.Locale
 
-private const val DOMAIN = "doujindesu.tv"
+private const val DOMAIN = "doujin.desu.xxx"
 
 class DoujinDesu :
     HttpSource(),
